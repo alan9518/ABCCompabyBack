@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "ABC Companty Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan9518/ABCCompabyBack.git"
+  },
+  "author": "alan medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alan9518/ABCCompabyBack/issues"
+  },
+  "homepage": "https://github.com/alan9518/ABCCompabyBack#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
